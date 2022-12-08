@@ -1,0 +1,9 @@
+ООП
+![image](https://user-images.githubusercontent.com/119584508/206389136-95db53de-d15f-49e2-bdc7-c7a35482e69c.png)
+![image](https://user-images.githubusercontent.com/119584508/206392164-a299f1d4-f1fa-4364-81c4-1ae21c102a0d.png)
+![image](https://user-images.githubusercontent.com/119584508/206393351-b5880d0e-bf46-470e-986e-eac5b47a2cdf.png)
+![image](https://user-images.githubusercontent.com/119584508/206396416-5b837469-4cc4-4bf9-b683-71d62aa8190a.png)
+![image](https://user-images.githubusercontent.com/119584508/206399830-2cc8550e-ec4b-4ce5-b4dc-a49164a01f35.png)
+Интерфейс
+![image](https://user-images.githubusercontent.com/119584508/206400760-e9be9651-5151-4f59-ba9c-f4ba800a2f7f.png)
+![image](https://user-images.githubusercontent.com/119584508/206400856-b38175ef-3069-4635-976c-c8d19ac692f6.png)
